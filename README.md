@@ -81,7 +81,7 @@ Chest Dips
 
 
 
-—
+---
 
 
 ## Arms
@@ -106,7 +106,7 @@ Dips (Tricep Focus)
 * 2 working sets
     * 12-15 reps
 
-—
+---
 
 ## Back
 
