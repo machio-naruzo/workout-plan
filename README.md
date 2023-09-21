@@ -1,4 +1,7 @@
-# My Open Sourced Workout Program
+
+<img width="300" align="right"  src="https://github.com/machio-naruzo/workout-plan/assets/145677305/4ccdde48-ad83-4324-a748-6fb1991b01d0" /> 
+
+# My Open Sourced Workout Program 
 
 | Day | Body Parts |
 | :-: |:-----------:|
