@@ -1,5 +1,5 @@
 
-<img width="300" align="right"  src="https://github.com/machio-naruzo/workout-plan/assets/145677305/4ccdde48-ad83-4324-a748-6fb1991b01d0" /> 
+<img width="300" align="right"  src="https://github.com/machio-naruzo/workout-plan/assets/145677305/fcc354a5-6654-4d1d-8788-5ed36abf6469" /> 
 
 # My Open Sourced Workout Program 
 
